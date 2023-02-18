@@ -1,0 +1,15 @@
+.Controls {
+    display: flex;
+    justify-content: center;
+}
+
+.Controls > button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 25px;
+    padding: 16px;
+    margin: 16px;
+    font-size: 25px;
+}
